@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fire
+  - Ground
+  - Duckling
+  - Hat
+  - Platform
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1313338835
+    locked: 0
+  - name: INBTW
+    uniqueID: 1465759685
+    locked: 0
+  - name: Building Left
+    uniqueID: 3230417587
+    locked: 0
+  - name: Building Right
+    uniqueID: 2013717537
+    locked: 0
+  - name: Player
+    uniqueID: 1233673559
+    locked: 0
+  - name: Foreground
+    uniqueID: 3013583313
+    locked: 0
+  - name: SuperForeground
+    uniqueID: 807195133
+    locked: 0
