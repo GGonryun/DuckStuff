@@ -1,7 +1,7 @@
 # DuckStuff
 ![Menu](./Media/Image1.png)
 
-[GDC19 Submission](https://globalgamejam.org/2019/games/duck-stuff): A game about protecting your ducklings!
+[GGJ19 Submission](https://globalgamejam.org/2019/games/duck-stuff): A game about protecting your ducklings!
 
 
 ## Gameplay:
